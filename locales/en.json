@@ -1,0 +1,137 @@
+{
+  "app":{
+    "app_name": "Bet Masters" 
+  },
+  "navigation": {
+    "titles": {
+      "login_with_email": "Login with Email",
+      "sign_up_with_email": "Sign up with Email",
+      "forgot_password": "Forgot Password",
+      "drawer": {
+        "main_league": "Main League",
+        "friendly_leagues": "Friendly Leagues",
+        "forms": "Forms",
+        "my_account": "My Account",
+        "log_out": "Log Out"
+      },
+      "friendly_leagues": {
+        "main": "Friendly Leagues",
+        "new_friendly_league": "New Friendly League",
+        "my_forms": "My Forms",
+        "fill_form": "Submit Form",
+        "leaderboard": "ScoreBoard",
+        "chat": "Chat"
+      }
+    }
+  },
+  "app_load": {
+    "logging_in": "Logging in...",
+    "loading_data": "Loading data..."
+  },
+  "intro": {
+    "button_next": "Next",
+    "button_done": "Done",
+    "button_skip": "Skip",
+    "page1": {
+      "title": "Challenge your friends!",
+      "content": "Who among the friends is the Bet Master?\nCompete against your friends in a Friendly League with fun and competetive challenges!"
+    }
+  },
+  "login":{
+    "login_with_facebook_button_title": "Login With Facebook",
+    "login_with_google_button_title": "Login With Google",
+    "login_with_email_button_title": "Login With Email"
+  },
+  "login_with_email": {
+    "form": {
+      "text_field_email_placeholder": "email@gmail.com",
+      "text_field_password_placeholder": "Type your Password",
+      "text_field_rePassword_placeholder": "Type your Password again",
+      "button_login": "Log In",
+      "button_signup": "Sign Up",
+      "button_forgot_password": "Forgot Password?"
+    },
+    "login": {
+      "error_invalid_email": "The email is invalid\nCheck your email address.",
+      "error_user_disabled": "Your account is disabled!",
+      "error_user_not_found": "We couldn't find your user.\nMake sure you typed your email correctly",
+      "error_wrong_password": "Wrong password.",
+      "error_default": "Login failed.\nPlease try again!"
+    },
+    "signup": {
+      "error_weak_password": "Password needs to have at least 6 characters.",
+      "error_invalid_email": "The email is invalid\nCheck your email address.",
+      "error_operation_not_allowed": "Signing up with Email And Password is disabled.",
+      "error_email_already_in_use": "This email is already in use.\ntry to Log In with different password or Sign Up with different email",
+      "error_username_exists" : "The username already exists!",
+      "error_default": "Signup failed.\nPlease try again!",
+      "button_sign_up": "Sign Up!",
+      "text_field_username_placeholder": "JohnSnow"
+    },
+    "forgot_password": {
+      "text_field_email_placeholder": "email@gmail.com",
+      "button_forgot_password": "Recover Password"
+    }
+  },
+  "friendly_leagues": {
+    "button_create_new": "Create New Friendly League",
+    "new_friendly_leagues": {
+      "name_placeholder": "League Name",
+      "button_create": "Create"
+    },
+    "friendly_league": {
+      "pre_title": "League",
+      "leaderboard": "Leaderboard",
+      "coins": "Coins",
+      "settings": {
+        "pre_title": "League Settings",
+        "invite_friend_header": "Invite a Friend", 
+        "invite_text_input_placeholder": "Type your friend email address",
+        "invite_button": "Invite Friend",
+        "invite_same_user": "You can't invite yourself to a league",
+        "invite_exist_user": "This user already exists in the league",
+        "delete_league_header": "Leave and delete ",
+        "delete_league_button": "Leave League"
+      }
+    },
+    "league_invitations":
+    {
+      "no_invitations": "No pending invitations.",
+      "invitationContent": "{{inviter}} invites you to {{leagueName}}!"
+    }
+  },
+  "forms": {
+    "matches": {
+      "vs": "VS",
+      "review_form_button": "Review and Submit Form",
+      "error": "You can not bet on 0 coins!"
+    },
+    "display_form": {
+      "title": "My Forms",
+      "possible_win": "Possible Win: ",
+      "total_odd": "Total Odd:",
+      "thumbnail_display": {
+        "press_here": "Press to View",
+        "bet_amount": "Bet Amount:",
+        "winning_coins": "Winning Coins:",
+        "date_title": "Sent at "
+      }
+    }
+  },
+  "countries": {
+    "countryPicker": "Select a country...",
+    "leaguePicker": "Select a league...",
+    "england": {
+      "countryName" :"󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+      "leagues": {
+        "championship": "Championship"
+      }
+    }, 
+    "france": {
+      "countryName" :"󠁢󠁥󠁮󠁧󠁿🇫🇷󠁧󠁢󠁥󠁮󠁧󠁿 France",
+      "leagues": {
+        "ligue2": "Ligue 2"
+      }
+    } 
+  }
+}

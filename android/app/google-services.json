@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "951196383769",
+    "firebase_url": "https://bet-masters.firebaseio.com",
+    "project_id": "bet-masters",
+    "storage_bucket": "bet-masters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951196383769:android:c762b3b39fd92606",
+        "android_client_info": {
+          "package_name": "com.betmasters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951196383769-ump0i6nldidmgtsal7sq500kfeqhtje4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betmasters",
+            "certificate_hash": "9fae35a413b6dda582d6e3db154bebe17910cd20"
+          }
+        },
+        {
+          "client_id": "951196383769-llhl0472tfa179fi5emhl3iikgikip4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUrDuUlLYwVoLDmpvwMGzUw1tuLhYlX1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951196383769-llhl0472tfa179fi5emhl3iikgikip4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,137 @@
+{
+  "app":{
+    "app_name": "בט מאסטרס" 
+  },
+  "navigation": {
+    "titles": {
+      "login_with_email": "התחבר באמצעות דוא\"ל",
+      "sign_up_with_email": "הרשם באמצעות דוא\"ל",
+      "forgot_password": "שכחתי סיסמה",
+      "drawer": {
+        "main_league": "ליגה ראשית",
+        "friendly_leagues": "ליגות חברתיות",
+        "forms": "טפסים",
+        "my_account": "הפרופיל שלי",
+        "log_out": "התנתק"
+      },
+      "friendly_leagues": {
+        "main": "ליגות חברתיות",
+        "new_friendly_league": "ליגה חברתית חדשה",
+        "my_forms": "הטפסים שלי",
+        "fill_form": "מלא טופס",
+        "leaderboard": "טבלת ניקוד",
+        "chat": "צ'אט"
+      }
+    }
+  },
+  "app_load": {
+    "logging_in": "מתחבר...",
+    "loading_data": "טוען נתונים..."
+  },
+  "intro": {
+    "button_next": "הבא",
+    "button_done": "סיום",
+    "button_skip": "דלג",
+    "page1": {
+      "title": "אתגר את החבר'ה!",
+      "content": "מי מבין החברים הוא אלוף ההימורים?\nהתחרה מול החברים בליגה חברתית עם אתגרים מהנים ותחרותיים!"
+    }
+  },
+  "login":{
+    "login_with_facebook_button_title": "התחבר עם פייסבוק",
+    "login_with_google_button_title": "התחבר עם גוגל",
+    "login_with_email_button_title": "התחבר עם אימייל"
+  },
+  "login_with_email": {
+    "form": {
+      "text_field_email_placeholder": "email@gmail.com",
+      "text_field_password_placeholder": "הקלד סיסמה",
+      "text_field_rePassword_placeholder": "הקלד סיסמה בשנית",
+      "button_login": "התחבר",
+      "button_signup": "הרשם",
+      "button_forgot_password": "שכחת סיסמה?"
+    },
+    "login": {
+      "error_invalid_email": "האימייל שגוי.\nאנא וודא שהכתובת נכונה.",
+      "error_user_disabled": "המשתמש שלך חסום",
+      "error_user_not_found": "לא מצאנו את המשתמש שלך\nאנא וודא שהקלדת את האימייל הנכון.",
+      "error_wrong_password": "סיסמה שגויה.",
+      "error_default": "ההתחברות נכשלה.\nאנא נסה שנית!"
+    },
+    "signup": {
+      "error_weak_password": "סיסמה חייבת להכיל לפחות 6 תווים.",
+      "error_invalid_email": "האימייל שגוי.\nאנא וודא שהכתובת נכונה.",
+      "error_operation_not_allowed": "הרשמה עם אימייל וסיסמה מבוטלת.",
+      "error_email_already_in_use": "אימייל זה כבר קיים במערכת\nנסה להתחבר עם סיסמה אחרת או הרשם עם אימייל אחר.",
+      "error_username_exists" : "שם משתמש זה כבר בשימוש!",
+      "error_default": "ההרשמה נכשלה.\nאנא נסה שנית!",
+      "button_sign_up": "הרשם!",
+      "text_field_username_placeholder": "JohnSnow"
+    },
+    "forgot_password": {
+      "text_field_email_placeholder": "email@gmail.com",
+      "button_forgot_password": "שחזר סיסמה"
+    }
+  },
+  "friendly_leagues": {
+    "button_create_new": "צור ליגה חברתית חדשה",
+    "new_friendly_leagues": {
+      "name_placeholder": "שם הליגה",
+      "button_create": "צור"
+    },
+    "friendly_league": {
+      "pre_title": "ליגת",
+      "leaderboard": "טבלת ניקוד",
+      "coins": "מטבעות",
+      "settings": {
+        "pre_title": "הגדרות ליגת",
+        "invite_friend_header": "הזמן חבר", 
+        "invite_text_input_placeholder": "הקלד דוא\"ל של חבר",
+        "invite_button": "הזמן",
+        "invite_same_user": "לא ניתן להזמין את עצמך לליגה",
+        "invite_exist_user": "משתמש זה כבר חבר בליגה",
+        "delete_league_header": "עזוב ומחק ",
+        "delete_league_button": "עזוב ליגה"
+      }
+    },
+    "league_invitations":
+    {
+      "no_invitations": "אין הזמנות ממתינות.",
+      "invitationContent": "{{inviter}} מזמין אותך אל {{leagueName}}!"
+    }
+  },
+  "forms": {
+    "matches": {
+      "vs": "נגד",
+      "review_form_button": "סקור ושלח את הסקר",
+      "error": "לא ניתן להמר על 0 מטבעות!"
+    },
+    "display_form": {
+      "title": "הטפסים שלי",
+      "possible_win": "סכום לזכייה: ",
+      "total_odd": "יחס כולל: ",
+      "thumbnail_display": {
+        "press_here": "לחץ לצפייה!",
+        "bet_amount": "סכום ההימור:",
+        "winning_coins": "זכייה משוערת:",
+        "date_title": "נשלח ב- "
+      }
+    }
+  },
+  "countries": {
+    "countryPicker": "בחר מדינה...",
+    "leaguePicker": "בחר ליגה...",
+    "england": {
+      "countryName" :"󠁢󠁥󠁮󠁧󠁿אנגליה 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "leagues": {
+        "championship": "צ'מפיונשיפ"
+      }
+    }, 
+    "france": {
+      "countryName" :"󠁢󠁥󠁮󠁧󠁿🇫🇷󠁧󠁢󠁥󠁮󠁧󠁿 צרפת",
+      "leagues": {
+        "ligue2": "ליג 2"
+      }
+    } 
+  }
+}
